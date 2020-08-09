@@ -36,3 +36,20 @@ If the user presses one of the links in the top menu they will be directed to th
 Finally once the user has made there selections they can go to the cart and checkout. Once they click the checkout button they will be directed to a third party site that would finish the payment and send an email to both the roastery and the customer with the details and shipping information.
 
 ![Checkout Page](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/CheckoutPage.PNG)
+
+## <div align="center">Database Diagram</div>
+[(back to top)](#table-of-contents)
+
+
+**Initial database diagram draft**
+
+![Database Diagram](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/DatabaseDiagram.PNG)
+
+
+## <div align="center">Entity Relationship Diagram</div>
+[(back to top)](#table-of-contents)
+
+
+**Initial Draft of the Entity Relationship Diagram.**
+
+![ERD](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/Cody%20Chester%20Project%204%20Snip.PNG)
