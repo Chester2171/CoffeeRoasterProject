@@ -1,4 +1,5 @@
 ## <div align="center">Night Sights Coffee Roasters</div>
+## <div align="center">![Night Sights Coffee Roasters](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/Night%20Sights%20logo%202.PNG)</div>
 
 1) [Inspiration](#inspiration)
 2) [Concept](#concept)
@@ -85,7 +86,7 @@ Finally once the user has made there selections they can go to the cart and chec
 ## <div align="center">Use Case Diagram</div>
 [(back to top)](#table-of-contents)
 
-![Use Case Diagram]()
+![Use Case Diagram](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/Diagram.PNG)
 
 
 ## <div align="center">Requirements</div>
