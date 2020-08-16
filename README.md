@@ -5,6 +5,10 @@
 3) [Wire-Frames (DRAFT)](#wire-frames)
 4) [Database Diagram](#database-diagram)
 5) [Entity Relationship Diagram (ERD)](#entity-relationship-diagram)
+6) [User Stories](#user-stories)
+7) [Use Cases](#use-cases)
+8) [Use Case Diagram](#use-case-diagram)
+7) [Requirements](#requirements)
 
 ## <div align="center">Inspiration</div>
 [(back to top)](#table-of-contents)
@@ -53,3 +57,54 @@ Finally once the user has made there selections they can go to the cart and chec
 **Initial Draft of the Entity Relationship Diagram.**
 
 ![ERD](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/Cody%20Chester%20Project%204%20Snip.PNG)
+
+## <div align="center">User Stories</div>
+[(back to top)](#table-of-contents)
+
+**1.** As a user, I need to login or register for an account.
+
+**2.** As a user, I need to input the coffee beans I would like to purchase in the shopping cart.
+
+**3.** As a user, I need to see the items in my cart along with the total price including taxes and shipping.
+
+**4.** As the employee, I need to be able to see the orders associated with the customer login.
+
+**5.** As an administrator, I need to be able to see the current on/hand inventories and have the ability to prevent users from purchasing coffee that is currently at zero on/hand.
+
+## <div align="center">Use Cases</div>
+[(back to top)](#table-of-contents)
+
+**1.** Given the user is on the login page, when the user inputs their Username and Password, they are directed to the Featured page.
+
+**2.** Given the user is on the Featured tab, when the user selects a link to any of the roasted coffee bean variants, they are directed to that page. 
+
+**3.** Given that the user has selected a roasted coffee beans, when they select the roasted coffee beans, they can see a description of the coffee the size in ounces and the price of that particular roast.
+
+**4.** Given that the user has added the roasted coffee beans to their cart, when they checkout, they can see the quantity of roasted coffee beans selected, the size and the price, and their total including taxes and shipping. 
+
+## <div align="center">Use Case Diagram</div>
+[(back to top)](#table-of-contents)
+
+![Use Case Diagram]()
+
+
+## <div align="center">Requirements</div>
+[(back to top)](#table-of-contents)
+
+* 1.0\. System shall request users to log in to enter the website.
+   * 1.1.0\. System shall verify users input for Username and Password.
+    * 1.1.1\. System shall display error message if the Username and Password does not match the database. 
+    * 1.1.2\. System shall allow user to reset their password through their email if they have forgotten.
+
+* 2.0\. User shall be able to swipe through the featured roasted coffee beans on the featured page.
+   * 2.1.0\. User shall be able to scroll through all featured coffee beans from the last year.
+   * 2.2.0\. User shall be able to select the featured roast from the featured page and add it to their cart.
+
+* 3.0\. User shall be able to select the links to each type of roasted coffee beans offered.
+   * 3.1.0\. User shall be able to select individual roasts from the available coffees and see a description as well as the size and price of each roast in each section.
+
+* 4.0\. User shall be able to add coffee roasts to their cart.
+   * 4.1.0\. User shall be able to select the cart while they are logged in and see their current selections.
+   * 4.2.0\. User shall be able to see their previous orders while logged in and on the cart page.
+   * 4.3.0\. User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application.
+
