@@ -14,7 +14,7 @@
 ## <div align="center">Inspiration</div>
 [(back to top)](#table-of-contents)
 
-The inspiration for this project was born while my wife and I did a local coffee crawl in San Diego and had trouble finding some of the roasters on the coffee map and the applications we found were unhelpful and lacked the ability to order from someone the ones we had heard the most about. I hope to create an application that could be used by a local coffee roaster to reach a larger audience.
+The inspiration for this project was born while my wife and I did a local coffee crawl in San Diego and had trouble finding some of the roasters on the coffee map. The websites we found for several of the smaller very popular coffee roasters were unhelpful and lacked the ability to order their roasted coffee beans. I hope to create an application that could be used by a local coffee roasters to reach a larger audience and give the ability for those who cannot phyiscally visit thier locations the ability to order from the roasters.
 
 ## <div align="center">Concept</div>
 [(back to top)](#table-of-contents)
