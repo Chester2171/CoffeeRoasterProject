@@ -1,6 +1,7 @@
 ## <div align="center">Night Sights Coffee Roasters</div>
 ## <div align="center">![Night Sights Coffee Roasters](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/Night%20Sights%20logo%202.PNG)</div>
 
+## [Table of Contents](#table-of-contents)
 1) [Inspiration](#inspiration)
 2) [Concept](#concept)
 3) [Wire-Frames (DRAFT)](#wire-frames)
@@ -15,17 +16,17 @@
 
 
 ## <div align="center">Inspiration</div>
-[(back to top)](#inspiration)
+[(back to top)](#table-of-contents)
 
 The inspiration for this project was born while my wife and I did a local coffee crawl in San Diego and had trouble finding some of the roasters on the coffee map. The websites we found for several of the smaller very popular coffee roasters were unhelpful and lacked the ability to order their roasted coffee beans. I hope to create an application that could be used by a local coffee roasters to reach a larger audience and give the ability for those who cannot phyiscally visit thier locations the ability to order from the roasters.
 
 ## <div align="center">Concept</div>
-[(back to top)](#concept)
+[(back to top)](#table-of-contents)
 
 The idea of this project is to create a simple, user friendly tool to order locally roasted coffee. I want this app to be extremely easy to and provide the user with a feeling of broswing through coffee at their local coffee shop. I want it to be aesthetically appealing and functional.
 
 ## <div align="center">Wire-Frames</div>
-[(back to top)](#wire-frames)
+[(back to top)](#table-of-contents)
 
 **These are only drafts**
 
@@ -46,7 +47,7 @@ Finally once the user has made there selections they can go to the cart and chec
 ![Checkout Page](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/CheckoutPage.PNG)
 
 ## <div align="center">Database Diagram</div>
-[(back to top)](#database-diagram)
+[(back to top)](#table-of-contents)
 
 
 **Initial database diagram draft**
@@ -55,7 +56,7 @@ Finally once the user has made there selections they can go to the cart and chec
 
 
 ## <div align="center">Entity Relationship Diagram</div>
-[(back to top)](#entity-relationship-diagram)
+[(back to top)](#table-of-contents)
 
 
 **Initial Draft of the Entity Relationship Diagram.**
@@ -63,7 +64,7 @@ Finally once the user has made there selections they can go to the cart and chec
 ![ERD](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/Cody%20Chester%20Project%204%20Snip.PNG)
 
 ## <div align="center">User Stories</div>
-[(back to top)](#user-stories)
+[(back to top)](#table-of-contents)
 
 **1.** As a user, I need to login or register for an account.
 
@@ -76,7 +77,7 @@ Finally once the user has made there selections they can go to the cart and chec
 **5.** As an administrator, I need to be able to see the current on/hand inventories and have the ability to prevent users from purchasing coffee that is currently at zero on/hand.
 
 ## <div align="center">Use Cases</div>
-[(back to top)](#use-cases)
+[(back to top)](#table-of-contents)
 
 **1.** Given the user is on the login page, when the user inputs their Username and Password, they are directed to the Featured page.
 
@@ -87,13 +88,13 @@ Finally once the user has made there selections they can go to the cart and chec
 **4.** Given that the user has added the roasted coffee beans to their cart, when they checkout, they can see the quantity of roasted coffee beans selected, the size and the price, and their total including taxes and shipping. 
 
 ## <div align="center">Use Case Diagram</div>
-[(back to top)](#use-case-diagram)
+[(back to top)](#table-of-contents)
 
 ![Use Case Diagram](https://github.com/Chester2171/CoffeeRoasterProject/blob/master/Wireframe/Diagram.PNG)
 
 
 ## <div align="center">Requirements</div>
-[(back to top)](#requirements)
+[(back to top)](#table-of-contents)
 
 * 1.0\. System shall request users to log in to enter the website.
    * 1.1.0\. System shall verify users input for Username and Password.
@@ -113,7 +114,7 @@ Finally once the user has made there selections they can go to the cart and chec
    * 4.3.0\. User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application.
 
 ## <div align="center">Requirements Table</div>
-[(back to top)](#requirements-table)
+[(back to top)](#table-of-contents)
 
 | Requirement ID 	| Requirement Description                                                                                                                                      	| Test Method   	| Test ID 	|
 |----------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------	|---------	|
@@ -132,7 +133,7 @@ Finally once the user has made there selections they can go to the cart and chec
 | 4.3.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application.                       	| Inspection    	| TC006   	|
 
 ## <div align="center">Test Case Table</div>
-[(back to top)](#test-case-table)
+[(back to top)](#table-of-contents)
 
 | Test ID 	| Req. ID            	| Test Procedure                                                                                                 	| Current Status 	| Time Stamp 	|
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
