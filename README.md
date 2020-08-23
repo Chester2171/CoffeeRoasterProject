@@ -12,7 +12,7 @@
 8) [Use Case Diagram](#use-case-diagram)
 9) [Requirements](#requirements)
 10) [Requirements Table](#requirements-table)
-11) [Test Case Tabel](#test-case-table)
+11) [Test Case Table](#test-case-table)
 
 
 ## <div align="center">Inspiration</div>
