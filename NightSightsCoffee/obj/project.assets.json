@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chest\\Documents\\Visual Studio 2019\\Repository\\NightSightsCoffee\\NightSightsCoffee.csproj",
+      "projectUniqueName": "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\NightSightsCoffee\\NightSightsCoffee.csproj",
       "projectName": "NightSightsCoffee",
-      "projectPath": "C:\\Users\\Chest\\Documents\\Visual Studio 2019\\Repository\\NightSightsCoffee\\NightSightsCoffee.csproj",
+      "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\NightSightsCoffee\\NightSightsCoffee.csproj",
       "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chest\\Documents\\Visual Studio 2019\\Repository\\NightSightsCoffee\\obj\\",
+      "outputPath": "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\NightSightsCoffee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",

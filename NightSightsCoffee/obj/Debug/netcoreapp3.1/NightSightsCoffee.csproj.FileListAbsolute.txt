@@ -78,3 +78,43 @@ C:\Users\Chest\Documents\Visual Studio 2019\Repository\NightSightsCoffee\obj\Deb
 C:\Users\Chest\Documents\Visual Studio 2019\Repository\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.pdb
 C:\Users\Chest\Documents\Visual Studio 2019\Repository\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.genruntimeconfig.cache
 C:\Users\Chest\Documents\Visual Studio 2019\Repository\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.csproj.CopyComplete
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\NightSightsCoffee.exe
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\NightSightsCoffee.deps.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\NightSightsCoffee.runtimeconfig.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\NightSightsCoffee.runtimeconfig.dev.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\NightSightsCoffee.dll
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\NightSightsCoffee.pdb
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\NightSightsCoffee.Views.dll
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\bin\Debug\netcoreapp3.1\NightSightsCoffee.Views.pdb
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.csprojAssemblyReference.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.AssemblyInfoInputs.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.AssemblyInfo.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.RazorAssemblyInfo.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.RazorAssemblyInfo.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.TagHelpers.input.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.TagHelpers.output.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.RazorCoreGenerate.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddToCart.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\OurStory.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.RazorTargetAssemblyInfo.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.RazorTargetAssemblyInfo.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.Views.pdb
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\staticwebassets\NightSightsCoffee.StaticWebAssets.Manifest.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\staticwebassets\NightSightsCoffee.StaticWebAssets.xml
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.dll
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.pdb
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.genruntimeconfig.cache
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\NightSightsCoffee\obj\Debug\netcoreapp3.1\NightSightsCoffee.csproj.CopyComplete
