@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using NightSightsCoffee.Models;
 
 namespace NightSightsCoffee
 {
@@ -17,12 +19,16 @@ namespace NightSightsCoffee
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        public IConfiguration Configuration { get; set; }
 
         
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<NightSightsDbContext>(opts =>
+            {
+                opts.UseSqlServer(Configuration["ConnectionStrings:NightSightsDbConnection"]);
+            });
         }
 
         
