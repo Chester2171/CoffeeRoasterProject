@@ -62,7 +62,7 @@ namespace NightSightsCoffee.Models
             {
                 entity.Property(e => e.Coffee).HasMaxLength(40);
 
-                entity.Property(e => e.Description).HasMaxLength(400);
+                entity.Property(e => e.Description).HasMaxLength(4000);
 
                 entity.Property(e => e.RoastType).HasMaxLength(120);
 
