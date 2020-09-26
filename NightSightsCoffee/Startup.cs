@@ -20,18 +20,14 @@ namespace NightSightsCoffee
         }
 
         public IConfiguration Configuration { get; set; }
-
-        
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<NightSightsDbContext>(opts =>
-            {
-                opts.UseSqlServer(Configuration["ConnectionStrings:NightSightsDbConnection"]);
-            });
+            //services.AddDbContext<NightSightsDbContext>(opts =>
+            //{
+            //    opts.UseSqlServer(Configuration["ConnectionStrings:NightSightsDbConnection"]);
+            //});
         }
-
-        
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -43,11 +39,8 @@ namespace NightSightsCoffee
                 app.UseExceptionHandler("/Home/Error");
             }
             app.UseStaticFiles();
-
             app.UseRouting();
-
             app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
