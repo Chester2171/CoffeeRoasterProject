@@ -1,0 +1,38 @@
+﻿@model ProductsListViewModel
+
+<body>
+    <header class="jumbotron-fluid  my-4">
+        <h1 class="display-3" p style="text-align:center"><strong>Night Sights Coffee Roasters</strong></h1>
+        <p class="lead" style="text-align:center"><em>Night Sights Coffee Roasters is a Veteran owned and operated coffee roasting company located in La Jolla, California. We provide only fair-trade organic coffee beans that are sourced from small lot growers.</em></p>
+    </header>
+
+    <div>
+        <img class="img mb-4" width="100%" src="images/6.jpg" alt="">
+    </div>
+
+
+    <div class="container-fluid row text-center">
+        @foreach (var p in Model.Products)
+        {
+            <div class="container col-sm-3">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <partial name="ProductSummary" model="p" />
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <div>
+        <img class="img-responsive mt-4" width="100%" src="images/12.jpg" alt="">
+    </div>
+
+
+</body>
+
+
+@*<div page-model="@Model.PagingInfo" page-action="Index" page-classes-enabled="true"
+     page-class="btn" page-class-normal="btn-outline-dark"
+     page-class-selected="btn-primary" page-url-category="@Model.CurrentCategory"
+     class="btn-group pull-right m-1">
+</div>*@
