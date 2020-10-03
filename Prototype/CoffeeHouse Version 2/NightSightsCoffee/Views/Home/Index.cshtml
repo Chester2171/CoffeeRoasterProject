@@ -1,6 +1,55 @@
 ﻿@model ProductsListViewModel
 
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Night Sights Coffee Roasters</title>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/heroic-features.css" rel="stylesheet">
+</head>
+
+
+
+
 <body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="/">Night Sights Coffee Roasters</a>
+            <div class="col-6 text-right">
+                <vc:cart-summary />
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/">
+                            Home
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Cart">Cart</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Story">Our Story</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Contact">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
     <header class="jumbotron-fluid  my-4">
         <h1 class="display-3" p style="text-align:center"><strong>Night Sights Coffee Roasters</strong></h1>
         <p class="lead" style="text-align:center"><em>Night Sights Coffee Roasters is a Veteran owned and operated coffee roasting company located in La Jolla, California. We provide only fair-trade organic coffee beans that are sourced from small lot growers.</em></p>
@@ -11,18 +60,21 @@
     </div>
 
 
-    <div class="container-fluid row text-center">
-        @foreach (var p in Model.Products)
-        {
-            <div class="container col-sm-3">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <partial name="ProductSummary" model="p" />
-                    </div>
+    <div class="row text-center">
+    @foreach (var p in Model.Products)
+    {
+        <div class="container col-sm-3">
+            <div class="card h-100">
+                <div class="card-body">
+                    <partial name="ProductSummary" model="p" />
                 </div>
             </div>
-        }
+        </div>
+    }
     </div>
+
+
+
     <div>
         <img class="img-responsive mt-4" width="100%" src="images/12.jpg" alt="">
     </div>

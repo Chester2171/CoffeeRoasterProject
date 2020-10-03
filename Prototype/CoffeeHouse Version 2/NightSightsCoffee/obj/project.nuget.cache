@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VtIacH/EgnGa+gabaANh2GKhPiXj26ps1iErOE1TY+JiXyz4bRYr4OG8i4V+rubwkaC4bMf5zZnBdgljEv5rbQ==",
+  "dgSpecHash": "8NUmYVubPv0XPWinhsYKuPlMRd4Xcz9BFcF/wPmrab1o3w/pW3693yjLdQnLwcNEZbS6nFg06+r/HPvoHwle1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouse with styling\\NightSightsCoffee\\NightSightsCoffee.csproj",
+  "projectFilePath": "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\Prototype\\CoffeeHouse Version 2\\NightSightsCoffee\\NightSightsCoffee.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Chest\\.nuget\\packages\\bootstrap\\4.5.2\\bootstrap.4.5.2.nupkg.sha512",
+    "C:\\Users\\Chest\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -36,6 +38,7 @@
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\Chest\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

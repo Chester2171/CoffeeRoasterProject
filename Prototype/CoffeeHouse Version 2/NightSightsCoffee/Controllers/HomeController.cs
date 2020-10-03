@@ -35,5 +35,22 @@ namespace NightSightsCoffee.Controllers
             },
             CurrentCategory = category
         });
+
+        [HttpGet("Contact")]
+        public IActionResult ContactUs()
+        {
+            return View();
+        }
+
+        [HttpGet("Story")]
+        public IActionResult OurStory()
+        {
+            return View();
+        }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
     }
 }

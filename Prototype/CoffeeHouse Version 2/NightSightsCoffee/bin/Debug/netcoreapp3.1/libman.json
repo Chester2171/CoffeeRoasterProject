@@ -13,7 +13,7 @@
     {
       "provider": "unpkg",
       "library": "startbootstrap-heroic-features@4.2.2",
-      "destination": "wwwroot/lib/startbootstrap-heroic-features/"
+      "destination": "wwwroot/startbootstrap-heroic-features/"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouse with styling\\NightSightsCoffee\\NightSightsCoffee.csproj": {}
+    "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\Prototype\\CoffeeHouse Version 2\\NightSightsCoffee\\NightSightsCoffee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouse with styling\\NightSightsCoffee\\NightSightsCoffee.csproj": {
+    "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\Prototype\\CoffeeHouse Version 2\\NightSightsCoffee\\NightSightsCoffee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouse with styling\\NightSightsCoffee\\NightSightsCoffee.csproj",
+        "projectUniqueName": "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\Prototype\\CoffeeHouse Version 2\\NightSightsCoffee\\NightSightsCoffee.csproj",
         "projectName": "NightSightsCoffee",
-        "projectPath": "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouse with styling\\NightSightsCoffee\\NightSightsCoffee.csproj",
+        "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\Prototype\\CoffeeHouse Version 2\\NightSightsCoffee\\NightSightsCoffee.csproj",
         "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouse with styling\\NightSightsCoffee\\obj\\",
+        "outputPath": "C:\\Users\\Chest\\Documents\\GitHub\\NightSightsCoffeeRoaster\\Prototype\\CoffeeHouse Version 2\\NightSightsCoffee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.8, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[4.5.2, )"
             }
           },
           "imports": [
