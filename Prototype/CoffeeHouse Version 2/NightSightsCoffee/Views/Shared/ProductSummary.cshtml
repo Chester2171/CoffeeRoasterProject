@@ -3,21 +3,28 @@
     <div class="bg-faded p-1">
         <h4>
             @Model.Name
-            <span class="badge badge-pill badge-primary" style="float:right">
+            @*<span class="badge badge-pill badge-primary" style="float:right">
                 <small>@Model.Price.ToString("c")</small>
-            </span>
+            </span>*@
         </h4>
     </div>
     <form id="@Model.ProductID" asp-page="/Cart" method="post">
         <input type="hidden" asp-for="ProductID" />
         <input type="hidden" name="returnUrl"
                value="@ViewContext.HttpContext.Request.PathAndQuery()" />
-        <span class="card-text p-1">
+        <span class="card-text-center col-lg-3 col-md-6 mb-4">
             @Model.Description
-            <button type="submit"
-                    class="btn btn-success btn-sm pull-right" style="float:right">
-                Add To Cart
-            </button>
+            <div>
+                <span class="badge badge-pill badge-primary mb-sm-3">
+                    <small>@Model.Price.ToString("c")</small>
+                </span>
+            </div>
+            <div>
+                <button type="submit"
+                    class="btn btn-success btn-sm pull-right">
+                    Add To Cart
+                </button>
+            </div>
         </span>
     </form>
 </div>
