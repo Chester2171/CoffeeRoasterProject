@@ -61,19 +61,17 @@
 
 
     <div class="row text-center">
-    @foreach (var p in Model.Products)
-    {
-        <div class="container col-sm-3">
-            <div class="card h-100">
-                <div class="card">
-                    <partial name="ProductSummary" model="p" />
+        @foreach (var p in Model.Products)
+        {
+            <div class="container col-sm-3">
+                <div class="card h-100">
+                    <div class="card">
+                        <partial name="ProductSummary" model="p" />
+                    </div>
                 </div>
             </div>
+        }
         </div>
-    }
-    </div>
-
-
 
     <div>
         <img class="img-responsive mt-4" width="100%" src="images/12.jpg" alt="">
