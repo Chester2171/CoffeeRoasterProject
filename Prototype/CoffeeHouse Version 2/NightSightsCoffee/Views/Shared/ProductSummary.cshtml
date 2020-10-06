@@ -2,10 +2,44 @@
 <div class="card card-outline-primary m-1 p-1">
     <div class="bg-faded p-1">
         <h4>
+            @if (Model.Name == "Single Orgin Brazil")
+            {
+                <img class="card-img-top" src="~/lib/images/BrazilPhoto.jpg" alt="">
+            }
+            @if (Model.Name == "Single Origin Ethiopia")
+            {
+                <img class="card-img-top" src="~/lib/images/EthiopiaPhoto.jpg" alt="">
+            }
+            @if (Model.Name == "Single Origin Colombia")
+            {
+                <img class="card-img-top" src="~/lib/images/ColombiaPhoto.jpg" alt="">
+            }
+            @if (Model.Name == "Single Origin Vietnam")
+            {
+                <img class="card-img-top" src="~/lib/images/VietnamPhoto.jpg" alt="">
+            }
+            @if (Model.Name == "Single Origin Kona")
+            {
+                <img class="card-img-top" src="~/lib/images/KonaPhoto.jpg" alt="">
+            }
+            @if (Model.Name == "Colombia Blend")
+            {
+                <img class="card-img-top" src="~/lib/images/ColombiaXBrazilPhoto.jpg" alt="">
+            }
+            @if (Model.Name == "Ethiopia Blend")
+            {
+                <img class="card-img-top" src="~/lib/images/ColombiaXEthiopiaPhoto.jpg" alt="">
+            }
+            @if (Model.Name == "Guatemala Blend")
+            {
+                <img class="card-img-top" src="~/lib/images/ColombiaXGuatemalaPhoto.jpg" alt="">
+            }
+        </h4>
+        <h4>
             @Model.Name
             @*<span class="badge badge-pill badge-primary" style="float:right">
-                <small>@Model.Price.ToString("c")</small>
-            </span>*@
+            <small>@Model.Price.ToString("c")</small>
+        </span>*@
         </h4>
     </div>
     <form id="@Model.ProductID" asp-page="/Cart" method="post">
