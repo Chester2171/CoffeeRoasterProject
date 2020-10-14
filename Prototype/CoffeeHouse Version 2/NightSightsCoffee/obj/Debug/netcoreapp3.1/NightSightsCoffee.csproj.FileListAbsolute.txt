@@ -341,3 +341,7 @@ C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\Prototype\CoffeeHouse V
 C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\Prototype\CoffeeHouse Version 2\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
 C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\Prototype\CoffeeHouse Version 2\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\OurStory.cshtml.g.cs
 C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\Prototype\CoffeeHouse Version 2\NightSightsCoffee\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\Prototype\CoffeeHouse Version 2\NightSightsCoffee\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\Prototype\CoffeeHouse Version 2\NightSightsCoffee\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.NightSightsCoffee2171 - Web Deploy.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\Prototype\CoffeeHouse Version 2\NightSightsCoffee\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\NightSightsCoffee2171 - Web Deploy\mssql1.arm.json
+C:\Users\Chest\Documents\GitHub\NightSightsCoffeeRoaster\Prototype\CoffeeHouse Version 2\NightSightsCoffee\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\NightSightsCoffee2171 - Web Deploy\profile.arm.json
