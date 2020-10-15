@@ -10,8 +10,8 @@ using NightSightsCoffee.Models;
 namespace NightSightsCoffee.Migrations
 {
     [DbContext(typeof(StoreDbContext))]
-    [Migration("20200926220025_Orders")]
-    partial class Orders
+    [Migration("20201015182253_update")]
+    partial class update
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

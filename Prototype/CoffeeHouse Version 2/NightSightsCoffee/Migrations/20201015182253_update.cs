@@ -2,7 +2,7 @@
 
 namespace NightSightsCoffee.Migrations
 {
-    public partial class Orders : Migration
+    public partial class update : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -25,6 +25,23 @@ namespace NightSightsCoffee.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Orders", x => x.OrderID);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Products",
+                columns: table => new
+                {
+                    ProductID = table.Column<long>(nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(nullable: true),
+                    Description = table.Column<string>(nullable: true),
+                    TastingNotes = table.Column<string>(nullable: true),
+                    Price = table.Column<decimal>(type: "decimal(8, 2)", nullable: false),
+                    Category = table.Column<string>(nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Products", x => x.ProductID);
                 });
 
             migrationBuilder.CreateTable(
@@ -72,6 +89,9 @@ namespace NightSightsCoffee.Migrations
 
             migrationBuilder.DropTable(
                 name: "Orders");
+
+            migrationBuilder.DropTable(
+                name: "Products");
         }
     }
 }

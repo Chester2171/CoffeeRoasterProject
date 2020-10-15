@@ -22,8 +22,8 @@ namespace NightSightsCoffee.Models
                 context.Products.AddRange(
                 new Product
                 {
-                    Name = "Single Orgin Brazil",
-                    Description = "Our true dark roast - simply intense. Intentionally pushed to the brink of bittersweet, it is the essential dark roast.",
+                    Name = "Single Origin Brazil",
+                    Description = "Our true dark roast - simply intense. Intentionally pushed to the brink of bittersweet, it is the essential dark roast for those who love dark roast and can't start the day without it.",
                     TastingNotes = "Tasting Notes: Dark Chocolate, Molasses, Creamy.",
                     Category = "Dark Roast",
                     Price = 16.99m
@@ -47,7 +47,7 @@ namespace NightSightsCoffee.Models
                 new Product
                 {
                     Name = "Single Origin Vietnam",
-                    Description = "The intense bitter flavor associated with all single orgin beans from Vietnam. Notes of dried fruit and baked goods.",
+                    Description = "The intense bitter flavor associated with all single origin coffee beans from Vietnam. Notes of dried fruit and baked goods, mixed with a tobacco. ",
                     TastingNotes = "Tasting Notes: Cinniamon Sugar, Fig, Bitter Bite.",
                     Category = "Dark Roast",
                     Price = 15.99m
@@ -55,7 +55,7 @@ namespace NightSightsCoffee.Models
                 new Product
                 {
                     Name = "Single Origin Kona",
-                    Description = "A single orgin that tastes like soaking in the rays on the beach in kona. A perfect vacation day at home when you wish you were far away at the beach.",
+                    Description = "A single origin that tastes like soaking in the rays on the beach in kona. A perfect vacation day at home when you wish to be far away on the beach under a big umbrella.",
                     TastingNotes = "Tasting Notes: Honey, Brown Sugar, Sweet.",
                     Category = "Medium Roast",
                     Price = 19.99m
@@ -63,7 +63,7 @@ namespace NightSightsCoffee.Models
                 new Product
                 {
                     Name = "Colombia Blend",
-                    Description = "A sweet tooth's dream blend. A rich, sweet blend on a mission to convert the masses to the perfect blend of brown sugar goodness with a smooth finish.",
+                    Description = "A sweet tooth's dream blend. A rich, sweet blend on a mission to convert the masses to the perfect blend of brown sugar goodness with a smooth and slightly sweet finish.",
                     TastingNotes = "Tasting Notes: Milk Chocolate, Sugar Cookie, Creamy.",
                     Category = "Light Roast",
                     Price = 12.99m
