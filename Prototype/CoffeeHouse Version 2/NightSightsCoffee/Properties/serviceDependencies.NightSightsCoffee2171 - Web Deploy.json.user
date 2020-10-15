@@ -2,17 +2,37 @@
   "dependencies": {
     "mssql1": {
       "restored": true,
-      "restoreTime": "2020-10-07T02:14:29.6275438Z"
+      "restoreTime": "2020-10-15T18:40:50.2774968Z"
     }
   },
   "parameters": {
+    "NightSightsCoffee2171.subscriptionId": {
+      "Type": "subscription",
+      "Value": "71aac8f2-0857-4ee3-92fe-84071c3313b9"
+    },
+    "NightSightsCoffee2171.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "NightSightsCoffeeRG"
+    },
     "mssql1.subscriptionId": {
       "Type": "subscription",
       "Value": "71aac8f2-0857-4ee3-92fe-84071c3313b9"
     },
+    "NightSightsCoffee2171.resourceName": {
+      "Type": null,
+      "Value": "NightSightsCoffee2171"
+    },
+    "NightSightsCoffee2171.resourceGroupLocation": {
+      "Type": null,
+      "Value": "westus2"
+    },
     "mssql1.resourceGroupName": {
       "Type": "resourceGroup",
       "Value": "NightSightsCoffeeRG"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "71aac8f2-0857-4ee3-92fe-84071c3313b9"
     }
   }
 }
