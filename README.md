@@ -146,4 +146,4 @@ Finally once the user has made there selections they can go to the cart and chec
 | TC003   	| 2.0, 2.1.0 2.2.0   	| User should be able to scroll through Featured Coffee Roasts and  add them to their cart.                      	| Not Tested     	|            	|
 | TC004   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link to coffees should display the description.      	| Not Tested     	|            	|
 | TC005   	| 4.0                	| User should be able to select roasts and add it to their cart.                                                 	| Not Tested     	|            	|
-| TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users car should be reflective of their selections including after they leave the website and return.          	| Not Tested     	|            	|
+| TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users cart should be reflective of their selections including after they leave the website and return.         	| Not Tested     	|            	|
