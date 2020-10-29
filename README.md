@@ -141,9 +141,9 @@ Finally once the user has made there selections they can go to the cart and chec
 
 | Test ID 	| Req. ID            	| Test Procedure                                                                                                 	| Current Status 	| Time Stamp 	|
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
-| TC001   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| Not Tested     	|            	|
-| TC002   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| Not Tested     	|            	|
-| TC003   	| 2.0, 2.1.0 2.2.0   	| User should be able to scroll through Featured Coffee Roasts and  add them to their cart.                      	| Not Tested     	|            	|
-| TC004   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link to coffees should display the description.      	| Not Tested     	|            	|
-| TC005   	| 4.0                	| User should be able to select roasts and add it to their cart.                                                 	| Not Tested     	|            	|
-| TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users cart should be reflective of their selections including after they leave the website and return.         	| Not Tested     	|            	|
+| TC001   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| Failed        	| No Longer Required           	|
+| TC002   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| Failed        	| No Longer Required           	|
+| TC003   	| 2.0, 2.1.0 2.2.0   	| User should be able to scroll through Featured Coffee Roasts and  add them to their cart.                      	| Passed        	| 10/8/2020           	|
+| TC004   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link to coffees should display the description.      	| Passed        	|  10/14/2020          	|
+| TC005   	| 4.0                	| User should be able to select roasts and add it to their cart.                                                 	| Passed        	| 10/28/2020           	|
+| TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users cart should be reflective of their selections including after they leave the website and return.         	| Passed        	| 10/28/2020           	|
