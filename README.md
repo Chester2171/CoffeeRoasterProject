@@ -17,6 +17,7 @@
 9) [Requirements](#requirements)
 10) [Requirements Table](#requirements-table)
 11) [Test Case Table](#test-case-table)
+12) [Test Readiness Review](#test-readiness-review)
 
 
 ## <div align="center">Inspiration</div>
@@ -141,9 +142,20 @@ Finally once the user has made there selections they can go to the cart and chec
 
 | Test ID 	| Req. ID            	| Test Procedure                                                                                                 	| Current Status 	| Time Stamp 	|
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
-| TC001   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| Not Tested     	|            	|
-| TC002   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| Not Tested     	|            	|
-| TC003   	| 2.0, 2.1.0 2.2.0   	| User should be able to scroll through Featured Coffee Roasts and  add them to their cart.                      	| Not Tested     	|            	|
-| TC004   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link to coffees should display the description.      	| Not Tested     	|            	|
-| TC005   	| 4.0                	| User should be able to select roasts and add it to their cart.                                                 	| Not Tested     	|            	|
-| TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users car should be reflective of their selections including after they leave the website and return.          	| Not Tested     	|            	|
+| TC001   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| Failed        	| No Longer Required           	|
+| TC002   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| Failed        	| No Longer Required           	|
+| TC003   	| 2.0, 2.1.0 2.2.0   	| User should be able to scroll through Featured Coffee Roasts and  add them to their cart.                      	| Passed        	| 10/8/2020           	|
+| TC004   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link to coffees should display the description.      	| Passed        	|  10/14/2020          	|
+| TC005   	| 4.0                	| User should be able to select roasts and add it to their cart.                                                 	| Passed        	| 10/28/2020           	|
+| TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users cart should be reflective of their selections including after they leave the website and return.         	| Passed        	| 10/28/2020           	|
+
+
+## <div align="center">Test Readiness Review</div>
+[(back to top)](#table-of-contents)
+
+## What percent of requirements are (currently) covered by test cases?
+46% of requirements are currently covered by test cases, 6 out of the initial 13 requirements have been meet and passed testing. Many of the requirements are no longer required as changes were made to the application. I made these changes as it is better for the application to be available without login in in order to see the products and make purchases, this decision was made when I visited a website that required me to login and instead of create an account for the products website I logged into amazon and purchased the same product.
+## What percent of test cases are currently passing?
+67% of the test’s cases are passing.
+## What level of Validation could be expected after Verification? (Acceptance Tests?)
+The validation of tests that could be expected after verification would be the ability for an individual to visit the application and be able to put items that they wish to purchase and add them to the cart. Once items are entered into the cart the cart should then reflect the quantity and price of the added items. Once all items that the individual wants to purchase are entered into the cart, they can checkout. The checkout process should involve entering the individual’s information in to the form and then a thank you message should appear. 
