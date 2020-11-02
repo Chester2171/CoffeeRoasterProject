@@ -17,6 +17,8 @@
 10) [Requirements Table](#requirements-table)
 11) [Test Case Table](#test-case-table)
 12) [Test Readiness Review](#test-readiness-review)
+13) [Software Development Lifecycle](#software-development-lifecycle)
+14) [Lessons Learned](#lessons-learned)
 
 
 ## <div align="center">Inspiration</div>
@@ -158,3 +160,39 @@ Finally once the user has made there selections they can go to the cart and chec
 67% of the test’s cases are passing.
 ## What level of Validation could be expected after Verification? (Acceptance Tests?)
 The validation of tests that could be expected after verification would be the ability for an individual to visit the application and be able to put items that they wish to purchase and add them to the cart. Once items are entered into the cart the cart should then reflect the quantity and price of the added items. Once all items that the individual wants to purchase are entered into the cart, they can checkout. The checkout process should involve entering the individual’s information in to the form and then a thank you message should appear.
+
+## <div align="center">Software Development Lifecycle</div>
+[(back to top)](#table-of-contents)
+
+## Planning: 
+Initially I did not plan out my application very well, I did not fully understand what I was able to do or what I wanted my application to do. So many of my first designs are based on my initial thoughts on how an E-Commerce worked and through building the application and using E-Commerce website I slowly refined my application.
+
+## Analysis: 
+Reviewing some of my favorite websites helped me to develop my expectations and design elements that I wanted to incorporate into my application.
+
+## Design: 
+I used wire-frame designs based on a mobile device as that is the main medium I use when online shopping. 
+
+## Implementation: 
+I used the help of almost everyone in the course to help me to develop different aspects of the project. I used the MVC framework and based many of the concepts off the material we covered in class.
+
+## Testing & Integration: 
+I did not build in any test cases, however I made sure that each of the pages and buttons I used did what I wanted them to do and took me where I wanted.
+
+## Maintenance: 
+Finally, I cleaned up the user interface from some of the excesses I created in the code.
+
+## <div align="center">Lessons Learned</div>
+[(back to top)](#table-of-contents)
+
+## What did you do right?
+I used the information that I gained in class as well as utilized the knowledge of other students in the class to help me solve some of the issues I ran into while working on my application. I also used outside sources like Udemy to teach me some of the concepts I did fully understand yet still wanted to implement. Being able to use several different resources such as other students and Udemy helped to give me perspective on my project and helped to develop it into a product that I am happy with.
+
+## What did you do wrong?
+I did a lot wrong and made errors initially by not creating a database and simply hard coding in the information into the application. I also made things harder than need be by trying things I did not fully understand and implementing them without understanding the consequences. I ended up recreating my entire project three times as I made so many mistakes it would have been more time consuming to fix than to just restart.
+
+## Where were you lucky?
+I was lucky that most of the things I wanted to do were covered in the learning and in the class. This meant that I got the opportunity to see how to implement one method of the project done in class and I could build off those materials covered.
+
+## What would you change/ what do you know now that you wish you knew “then”?
+Version control & the ultimate power of GitHub! I wish that I had known that simply saving to GitHub and making changes that ultimately broke my code could be fixed by accessing the last good copy that I had saved to GitHub. This would have saved me a significant amount of time that could have been better used somewhere else.
