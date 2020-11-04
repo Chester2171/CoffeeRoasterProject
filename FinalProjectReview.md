@@ -19,6 +19,7 @@
 12) [Test Readiness Review](#test-readiness-review)
 13) [Software Development Lifecycle](#software-development-lifecycle)
 14) [Lessons Learned](#lessons-learned)
+15) [Final Thoughts](#final-thoughts)
 
 
 ## <div align="center">Inspiration</div>
@@ -196,3 +197,6 @@ I was lucky that most of the things I wanted to do were covered in the learning 
 
 ## What would you change/ what do you know now that you wish you knew “then”?
 Version control & the ultimate power of GitHub! I wish that I had known that simply saving to GitHub and making changes that ultimately broke my code could be fixed by accessing the last good copy that I had saved to GitHub. This would have saved me a significant amount of time that could have been better used somewhere else.
+
+## <div align="center">Final Thoughts</div>
+[(back to top)](#table-of-contents)
