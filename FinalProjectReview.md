@@ -200,3 +200,5 @@ Version control & the ultimate power of GitHub! I wish that I had known that sim
 
 ## <div align="center">Final Thoughts</div>
 [(back to top)](#table-of-contents)
+
+I am glad that I got the opportunity to be apart of the Microsoft Software and Systems Academy (MSSA) and was able to find my rhythm as a software engineer. I am excited for the next steps in my journey and I hope that the friends I have made along the way continue to help me grow and learn new and more complex materials. Good Luck to everyone in the class I hope your journey has been as fun and exciting as mine. 
